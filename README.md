@@ -35,9 +35,8 @@ El modelado 3D fue realizado en **SolidWorks**, dividiéndose en los siguientes 
 | **Chasis Principal** | `CUERPO_BOT` | Estructura base que soporta motores, PCB y baterías. |
 | **Cubierta Superior** | `CUERPO_TOP` | Tapa protectora con relieve / Isologo grabado. |
 | **Guía de Pelota** | `PALA` | Pala frontal en V para dirección y control de la pelota. |
-| **Rueda Caster** | `mini-Porta-Rueda-Crazy` | Soporte para rueda loca / de apoyo frontal. |
-| **Placa Electrónica** | `PCB-60x45` | PCB dedicada para alimentación, driver L9110 y ESP32-C3. |
-| **Lastre** | `plomo` | Pesos integrados para mejorar el agarre de las ruedas. |
+| **Rueda Caster** | `mini--Rueda` | Soporte para rueda loca / de apoyo frontal. |
+
 
 ---
 
